@@ -6,7 +6,7 @@ export const config = {
   // REQUEST SETTINGS (convert your cURL here)
   // ===========================================
   request: {
-    url: 'https://api-dev.zippd.com/api/demo/health',
+    url: 'https://example.com/api/endpoint',
     method: 'GET',
     headers: {
       'Content-Type': 'application/json',
